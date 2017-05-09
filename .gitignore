@@ -115,3 +115,8 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+Supprimerait .idea/
+Supprimerait gradle/
+Supprimerait gradlew
+Supprimerait gradlew.bat
+Supprimerait src/
